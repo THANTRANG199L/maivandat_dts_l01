@@ -1,0 +1,1 @@
+-wto "e79fef7036124d69b6cb141136f8f813" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Bai9_behav" "xil_defaultlib.Bai9" -log "elaborate.log" 
