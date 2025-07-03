@@ -1,0 +1,12 @@
+
+{ 
+    crc :  4175917545750936194  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 78d3450cc22a48c9a85e41ba337e5176 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot JK_FF_CNT_TB_behav xil_defaultlib.JK_FF_CNT_TB" , 
+    buildDate : "Dec  7 2018" , 
+    buildTime : "00:33:28" , 
+    linkCmd : "D:\\dts\\Vivado\\2018.3\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/JK_FF_CNT_TB_behav/xsimk.exe\"   \"xsim.dir/JK_FF_CNT_TB_behav/obj/xsim_0.win64.obj\" \"xsim.dir/JK_FF_CNT_TB_behav/obj/xsim_1.win64.obj\" -L\"D:\\dts\\Vivado\\2018.3\\lib\\win64.o\" -lrdi_simulator_kernel  -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
