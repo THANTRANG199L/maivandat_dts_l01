@@ -1,0 +1,7 @@
+Running: xsim.dir/Bai10_behav/xsimk.exe -simmode gui -wdb Bai10_behav.wdb -simrunnum 0 -socket 59124
+Design successfully loaded
+Design Loading Memory Usage: 8500 KB (Peak: 8500 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 9076 KB (Peak: 9076 KB)
+Simulation CPU Usage: 15 ms
