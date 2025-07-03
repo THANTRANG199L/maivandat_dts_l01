@@ -1,0 +1,12 @@
+
+{ 
+    crc :  433824904176303844  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto b3493996be704ef4af669a21d5981c69 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Bai14_behav xil_defaultlib.Bai14" , 
+    buildDate : "Dec  7 2018" , 
+    buildTime : "00:33:28" , 
+    linkCmd : "D:\\dts\\Vivado\\2018.3\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/Bai14_behav/xsimk.exe\"   \"xsim.dir/Bai14_behav/obj/xsim_0.win64.obj\" \"xsim.dir/Bai14_behav/obj/xsim_1.win64.obj\" -L\"D:\\dts\\Vivado\\2018.3\\lib\\win64.o\" -lrdi_simulator_kernel  -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
